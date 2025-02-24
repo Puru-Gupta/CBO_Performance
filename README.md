@@ -47,11 +47,11 @@ After clustering, SHGs are categorized into three risk groups:
 - Consistently repaying loans on time.
 - Low-risk and eligible for better credit opportunities.
 
-#### ** Medium-Risk SHGs (Irregular Repayments)**
+#### **✅ Medium-Risk SHGs (Irregular Repayments)**
 - Occasionally delayed payments.
 - Require monitoring to prevent risk escalation.
 
-#### ** High-Risk SHGs (Frequent Overdue Loans)**
+#### **✅ High-Risk SHGs (Frequent Overdue Loans)**
 - Regular loan defaults or overdue payments.
 - Higher financial instability and require intervention.
 
