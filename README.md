@@ -20,7 +20,7 @@ Each SHG is represented as a **numerical vector** using key repayment features:
 - **Past Borrowing History** – Previous loan patterns.
 - **Loan Repayment Similarity** – Measured using **Euclidean distance**.
 
-# **Why Euclidean Distance?**
+### **Why Euclidean Distance?**
 - SHGs with **similar repayment behaviors** are closer in space.
 - SHGs with **different repayment behaviors** are farther apart.
 
@@ -34,7 +34,7 @@ Once SHGs are mapped to a feature space, a **clustering algorithm** is applied t
 - **DBSCAN** – Identifies outliers and groups SHGs with dense repayment similarities.
 - **Hierarchical Clustering** – Builds a tree-like structure to visualize SHG repayment behavior.
 
-# **What Happens Here?**
+### **What Happens Here?**
 - SHGs with **similar repayment behavior** are grouped together.
 - The algorithm **automatically detects patterns** in SHG repayment.
 
@@ -55,7 +55,7 @@ After clustering, SHGs are categorized into three risk groups:
 - Regular loan defaults or overdue payments.
 - Higher financial instability and require intervention.
 
-**Why is This Important?**
+### **Why is This Important?**
 - Helps **microfinance institutions** identify SHGs needing intervention.
 - Enables **risk-based credit decision-making**.
 - Prevents **loan defaults** through proactive management.
